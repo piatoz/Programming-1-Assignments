@@ -1,0 +1,15 @@
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\bin\Debug\net10.0\Odd Even.exe
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\bin\Debug\net10.0\Odd Even.deps.json
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\bin\Debug\net10.0\Odd Even.runtimeconfig.json
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\bin\Debug\net10.0\Odd Even.dll
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\bin\Debug\net10.0\Odd Even.pdb
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\obj\Debug\net10.0\Odd Even.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\obj\Debug\net10.0\Odd Even.AssemblyInfoInputs.cache
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\obj\Debug\net10.0\Odd Even.AssemblyInfo.cs
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\obj\Debug\net10.0\Odd Even.csproj.CoreCompileInputs.cache
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\obj\Debug\net10.0\Odd Even.sourcelink.json
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\obj\Debug\net10.0\Odd Even.dll
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\obj\Debug\net10.0\refint\Odd Even.dll
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\obj\Debug\net10.0\Odd Even.pdb
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\obj\Debug\net10.0\Odd Even.genruntimeconfig.cache
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Odd Even\obj\Debug\net10.0\ref\Odd Even.dll
