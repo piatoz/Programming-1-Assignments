@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\Odd Even\\Odd Even.csproj": {}
+    "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\PositiveNegativeZero\\PositiveNegativeZero.csproj": {}
   },
   "projects": {
-    "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\Odd Even\\Odd Even.csproj": {
+    "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\PositiveNegativeZero\\PositiveNegativeZero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\Odd Even\\Odd Even.csproj",
-        "projectName": "Odd Even",
-        "projectPath": "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\Odd Even\\Odd Even.csproj",
+        "projectUniqueName": "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\PositiveNegativeZero\\PositiveNegativeZero.csproj",
+        "projectName": "PositiveNegativeZero",
+        "projectPath": "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\PositiveNegativeZero\\PositiveNegativeZero.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\Odd Even\\obj\\",
+        "outputPath": "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\PositiveNegativeZero\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
