@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Age Validator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+296b240d0c96197e6bc0660c8a6a9730a22c39b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e20457d7abd32de6b8cd2e9b9d7274e2076ba7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Age Validator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Age Validator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

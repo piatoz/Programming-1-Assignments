@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\Age Validator\\Age Validator.csproj": {}
+    "/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/Age Validator.csproj": {}
   },
   "projects": {
-    "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\Age Validator\\Age Validator.csproj": {
+    "/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/Age Validator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\Age Validator\\Age Validator.csproj",
+        "projectUniqueName": "/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/Age Validator.csproj",
         "projectName": "Age Validator",
-        "projectPath": "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\Age Validator\\Age Validator.csproj",
-        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\chris\\Documents\\GitHub\\Programming 1 Assignments\\Age Validator\\obj\\",
+        "projectPath": "/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/Age Validator.csproj",
+        "packagesPath": "/Users/chris/.nuget/packages/",
+        "outputPath": "/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/chris/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -1,15 +1,30 @@
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\bin\Debug\net10.0\Age Validator.exe
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\bin\Debug\net10.0\Age Validator.deps.json
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\bin\Debug\net10.0\Age Validator.runtimeconfig.json
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\bin\Debug\net10.0\Age Validator.dll
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\bin\Debug\net10.0\Age Validator.pdb
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\obj\Debug\net10.0\Age Validator.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\obj\Debug\net10.0\Age Validator.AssemblyInfoInputs.cache
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\obj\Debug\net10.0\Age Validator.AssemblyInfo.cs
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\obj\Debug\net10.0\Age Validator.csproj.CoreCompileInputs.cache
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\obj\Debug\net10.0\Age Validator.sourcelink.json
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\obj\Debug\net10.0\Age Validator.dll
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\obj\Debug\net10.0\refint\Age Validator.dll
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\obj\Debug\net10.0\Age Validator.pdb
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\obj\Debug\net10.0\Age Validator.genruntimeconfig.cache
-c:\Users\chris\Documents\GitHub\Programming 1 Assignments\Age Validator\obj\Debug\net10.0\ref\Age Validator.dll
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/bin/Debug/net10.0/Age Validator.exe
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/bin/Debug/net10.0/Age Validator.deps.json
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/bin/Debug/net10.0/Age Validator.runtimeconfig.json
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/bin/Debug/net10.0/Age Validator.dll
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/bin/Debug/net10.0/Age Validator.pdb
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/obj/Debug/net10.0/Age Validator.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/obj/Debug/net10.0/Age Validator.AssemblyInfoInputs.cache
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/obj/Debug/net10.0/Age Validator.AssemblyInfo.cs
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/obj/Debug/net10.0/Age Validator.csproj.CoreCompileInputs.cache
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/obj/Debug/net10.0/Age Validator.sourcelink.json
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/obj/Debug/net10.0/Age Validator.dll
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/obj/Debug/net10.0/refint/Age Validator.dll
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/obj/Debug/net10.0/Age Validator.pdb
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/obj/Debug/net10.0/Age Validator.genruntimeconfig.cache
+c:/Users/chris/Documents/GitHub/Programming 1 Assignments/Age Validator/obj/Debug/net10.0/ref/Age Validator.dll
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/bin/Debug/net10.0/Age Validator
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/bin/Debug/net10.0/Age Validator.deps.json
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/bin/Debug/net10.0/Age Validator.runtimeconfig.json
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/bin/Debug/net10.0/Age Validator.dll
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/bin/Debug/net10.0/Age Validator.pdb
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/Debug/net10.0/Age Validator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/Debug/net10.0/Age Validator.AssemblyInfoInputs.cache
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/Debug/net10.0/Age Validator.AssemblyInfo.cs
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/Debug/net10.0/Age Validator.csproj.CoreCompileInputs.cache
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/Debug/net10.0/Age Validator.sourcelink.json
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/Debug/net10.0/Age Validator.dll
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/Debug/net10.0/refint/Age Validator.dll
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/Debug/net10.0/Age Validator.pdb
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/Debug/net10.0/Age Validator.genruntimeconfig.cache
+/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/Debug/net10.0/ref/Age Validator.dll
