@@ -1,0 +1,15 @@
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\bin\Debug\net10.0\PositiveNegativeZero.exe
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\bin\Debug\net10.0\PositiveNegativeZero.deps.json
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\bin\Debug\net10.0\PositiveNegativeZero.runtimeconfig.json
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\bin\Debug\net10.0\PositiveNegativeZero.dll
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\bin\Debug\net10.0\PositiveNegativeZero.pdb
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\obj\Debug\net10.0\PositiveNegativeZero.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\obj\Debug\net10.0\PositiveNegativeZero.AssemblyInfoInputs.cache
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\obj\Debug\net10.0\PositiveNegativeZero.AssemblyInfo.cs
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\obj\Debug\net10.0\PositiveNegativeZero.csproj.CoreCompileInputs.cache
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\obj\Debug\net10.0\PositiveNegativeZero.sourcelink.json
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\obj\Debug\net10.0\PositiveNegativeZero.dll
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\obj\Debug\net10.0\refint\PositiveNegativeZero.dll
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\obj\Debug\net10.0\PositiveNegativeZero.pdb
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\obj\Debug\net10.0\PositiveNegativeZero.genruntimeconfig.cache
+c:\Users\chris\Documents\GitHub\Programming 1 Assignments\PositiveNegativeZero\obj\Debug\net10.0\ref\PositiveNegativeZero.dll

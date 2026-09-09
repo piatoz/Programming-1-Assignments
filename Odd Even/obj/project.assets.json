@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/Age Validator.csproj",
-      "projectName": "Age Validator",
-      "projectPath": "/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/Age Validator.csproj",
+      "projectUniqueName": "/Users/chris/school/Web Markup/Programming-1-Assignments/Odd Even/Odd Even.csproj",
+      "projectName": "Odd Even",
+      "projectPath": "/Users/chris/school/Web Markup/Programming-1-Assignments/Odd Even/Odd Even.csproj",
       "packagesPath": "/Users/chris/.nuget/packages/",
-      "outputPath": "/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/",
+      "outputPath": "/Users/chris/school/Web Markup/Programming-1-Assignments/Odd Even/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/chris/.nuget/NuGet/NuGet.Config"
@@ -344,13 +344,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
-    }
-  ]
+  }
 }

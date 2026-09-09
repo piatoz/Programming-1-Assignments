@@ -4,5 +4,15 @@
   "success": true,
   "projectFilePath": "/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/Age Validator.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file /Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/obj/project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/Age Validator.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/chris/school/Web Markup/Programming-1-Assignments/Age Validator/Age Validator.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
